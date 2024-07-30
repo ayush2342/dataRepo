@@ -1,0 +1,31 @@
+{
+  "products": [
+    { "id": 1, "name": "Sofa", "price": 500, "description": "Comfortable 3-seater sofa", "rating": 4 },
+    { "id": 2, "name": "Chair", "price": 50, "description": "Ergonomic office chair", "rating": 5 },
+    { "id": 3, "name": "Computer", "price": 800, "description": "High-performance desktop computer", "rating": 4 },
+    { "id": 4, "name": "Laptop", "price": 1200, "description": "Lightweight and portable laptop", "rating": 4 },
+    { "id": 5, "name": "Dining Table", "price": 300, "description": "Elegant wooden dining table", "rating": 3 },
+    { "id": 6, "name": "Desk", "price": 150, "description": "Modern writing desk", "rating": 4 },
+    { "id": 7, "name": "Bookshelf", "price": 200, "description": "Spacious bookshelf", "rating": 5 },
+    { "id": 8, "name": "Bed", "price": 600, "description": "Queen-size bed with mattress", "rating": 4 },
+    { "id": 9, "name": "Nightstand", "price": 70, "description": "Compact nightstand", "rating": 4 },
+    { "id": 10, "name": "Lamp", "price": 40, "description": "Table lamp with adjustable brightness", "rating": 4 },
+    { "id": 11, "name": "Television", "price": 400, "description": "42-inch LED TV", "rating": 4 },
+    { "id": 12, "name": "Refrigerator", "price": 700, "description": "Double-door refrigerator", "rating": 5 },
+    { "id": 13, "name": "Washing Machine", "price": 500, "description": "Front-loading washing machine", "rating": 4 },
+    { "id": 14, "name": "Oven", "price": 250, "description": "Electric oven with convection", "rating": 3 },
+    { "id": 15, "name": "Microwave", "price": 100, "description": "Compact microwave oven", "rating": 4 }
+  ],
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
